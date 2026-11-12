@@ -1,1 +1,0 @@
-Run `01_mta_ridership_exploration.ipynb` for the original dataset questions, then `02_data_preparation.ipynb` for cleaning and hourly aggregation. Install the workspace requirements first. Notebook outputs are cleared for version control.
